@@ -1,0 +1,13 @@
+<svg id="PlaceholderStoreImage" xmlns="http://www.w3.org/2000/svg" width="600" height="512" viewBox="0 0 600 512">
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="Rectangle_96" data-name="Rectangle 96" width="600" height="512" fill="#e1f0ff"/>
+    <g id="Group_931" data-name="Group 931" transform="translate(-3185.85 -1330.816)">
+      <path id="Path_4832" data-name="Path 4832" d="M381.082,420.195H141.818A27.86,27.86,0,0,1,114,392.335V153.03a27.87,27.87,0,0,1,27.87-27.87H381.082a27.87,27.87,0,0,1,27.87,27.87V392.335a27.86,27.86,0,0,1-27.87,27.86Z" transform="translate(3224.79 1325.978)" fill="#7faef4"/>
+      <path id="Path_4833" data-name="Path 4833" d="M408.952,153.03V392.335a27.87,27.87,0,0,1-27.86,27.87H267.452L114,266.691V153.03a27.86,27.86,0,0,1,27.86-27.87H381.092a27.86,27.86,0,0,1,27.86,27.87Z" transform="translate(3224.79 1325.978)" fill="#72a2ef"/>
+      <path id="Union_1" data-name="Union 1" d="M0,129.054v-5.426H.207L19.916,22.761A28.151,28.151,0,0,1,47.537,0H95.375L83.2,124.689v4.365c0,23.494-18.624,42.539-41.6,42.539S0,152.547,0,129.054Z" transform="translate(3319.85 1427.816)" fill="#a7c5fd"/>
+      <path id="Union_3" data-name="Union 3" d="M0,130v-5.306H83.2V130A41.6,41.6,0,0,1,0,130Zm0-5.306L12.18,0H83.2V124.689Z" transform="translate(3403.045 1427.816)" fill="#4166bf"/>
+      <path id="Union_2" data-name="Union 2" d="M0,128.219V0H71.015L83,122.685h.2v5.533c0,23.954-18.624,43.374-41.6,43.374S0,152.173,0,128.219Z" transform="translate(3486.24 1427.816)" fill="#a7c5fd"/>
+      <path id="Union_4" data-name="Union 4" d="M12.18,129.984v-5.305L0,0H47.838A28.141,28.141,0,0,1,75.46,22.753L95.375,124.678h0v5.306a41.6,41.6,0,1,1-83.2,0Z" transform="translate(3557.255 1427.827)" fill="#4166bf"/>
+    </g>
+  </g>
+</svg>
