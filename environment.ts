@@ -1,7 +1,7 @@
-export const BasePartnerURL = 'http://192.168.0.7:8001/srishtishree/partner/';
-export const BaseSharedUrl = 'http://192.168.0.7:8002/srishtishree/shared/';
-export const BaseAdminUrl = 'http://192.168.0.7:8002/srishtishree/admin/';
-export const BaseCustomerUrl = 'http://192.168.0.7:8000/srishtishree/customer/';
+export const BasePartnerURL = 'http://192.168.0.2:8001/srishtishree/partner/';
+export const BaseSharedUrl = 'http://192.168.0.2:8002/srishtishree/shared/';
+export const BaseAdminUrl = 'http://192.168.0.2:8002/srishtishree/admin/';
+export const BaseCustomerUrl = 'http://192.168.0.2:8000/srishtishree/customer/';
 
 export const environment = {
   url: {

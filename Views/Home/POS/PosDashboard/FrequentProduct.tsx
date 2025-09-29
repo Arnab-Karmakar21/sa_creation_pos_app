@@ -40,9 +40,10 @@ const FrequentProduct = ({frequents, FeqBuy}: FrequentProductProps) => {
                   borderBottomLeftRadius: theme.roundness.mediumRoundness,
                 }}
                 source={{
-                  uri: RetrieveImageService_one(
-                    item.product_images.thumb_doc_path,
-                  ),
+                  uri: item.product_images.thumb_doc_path
+                  // uri: RetrieveImageService_one(
+                  //   item.product_images.thumb_doc_path,
+                  // ),
                 }}
               />
             ) : (

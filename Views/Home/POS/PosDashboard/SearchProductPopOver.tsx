@@ -78,9 +78,10 @@ const SearchProductPopOver = ({
                   borderBottomLeftRadius: theme.roundness.mediumRoundness,
                 }}
                 source={{
-                  uri: RetrieveImageService_one(
-                    search_product?.product_images.thumb_doc_path,
-                  ),
+                  uri: search_product?.product_images.thumb_doc_path
+                  // uri: RetrieveImageService_one(
+                  //   search_product?.product_images.thumb_doc_path,
+                  // ),
                 }}
               />
             ) : (

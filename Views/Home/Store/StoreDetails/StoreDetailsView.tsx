@@ -56,7 +56,8 @@ const StoreDetailsView = ({
         <Image
           style={styles.image}
           source={{
-            uri: RetrieveImageService_one(item.thumb_doc_path),
+            uri: item.thumb_doc_path , 
+            // uri: RetrieveImageService_one(item.thumb_doc_path),
           }}></Image>
       </View>
     );

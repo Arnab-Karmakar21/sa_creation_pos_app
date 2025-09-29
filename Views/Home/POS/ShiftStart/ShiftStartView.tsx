@@ -223,9 +223,10 @@ const StoreItems = React.memo(
                   borderTopRightRadius: 10,
                 }}
                 source={{
-                  uri: RetrieveImageService_one(
-                    item.store_image.thumb_doc_path,
-                  ),
+                  uri: item.store_image.thumb_doc_path
+                  // uri: RetrieveImageService_one(
+                  //   item.store_image.thumb_doc_path,
+                  // ),
                 }}></Image>
             ) : (
               <NoImage height={'100%'} />

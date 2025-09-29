@@ -187,9 +187,10 @@ const StoreCard = ({
                 <Image
                   style={styles.image}
                   source={{
-                    uri: RetrieveImageService_one(
-                      store.store_image.thumb_doc_path,
-                    ),
+                    uri: store.store_image.thumb_doc_path
+                    // uri: RetrieveImageService_one(
+                    //   store.store_image.thumb_doc_path,
+                    // ),
                   }}></Image>
               ) : (
                 <View style={styles.replacementView}>

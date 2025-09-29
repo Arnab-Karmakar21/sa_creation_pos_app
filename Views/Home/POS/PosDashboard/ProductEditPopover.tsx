@@ -96,9 +96,10 @@ const ProductEditPopover = ({
                   borderBottomLeftRadius: theme.roundness.mediumRoundness,
                 }}
                 source={{
-                  uri: RetrieveImageService_one(
-                    Item?.product_images.thumb_doc_path,
-                  ),
+                  uri: Item?.product_images.thumb_doc_path
+                  // uri: RetrieveImageService_one(
+                  //   Item?.product_images.thumb_doc_path,
+                  // ),
                 }}
               />
             ) : (
